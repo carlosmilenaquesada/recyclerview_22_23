@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable descripcion
+drawable fruta
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bt_detalles_cerrar
+id imageView
+id imageView2
+id img_item_producto
+id rv_productos
+id txt_detalles_cantidad
+id txt_detalles_nombre
+id txt_detalles_precio
+id txt_item_cantidad
+id txt_item_nombre
+id txt_item_precio
+id txt_titulo
+layout activity_detalles_producto
+layout activity_main
+layout item_producto
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Recyclerview_22_23
+xml backup_rules
+xml data_extraction_rules
